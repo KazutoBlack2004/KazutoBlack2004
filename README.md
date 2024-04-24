@@ -1,4 +1,9 @@
 # 💫 About Me:
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+</h1>
+<br>
+
 <br><br>Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.<br><br>
 
 
