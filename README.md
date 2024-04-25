@@ -6,17 +6,16 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> <!--Imagen Chica Anime-->
-
-
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-#<img aling="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 # <img aling="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 
 <br>
-<p>Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.</p>
+<p aling="left">
+Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.
+</p>
 <br>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-## 🌐 Socials:
+#🌐 Socials:
 <p align="left">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kazuto_black_) 
 </p>
@@ -39,15 +38,13 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div aling="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KazutoBlack0) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kazuto_black) 
-
-# <img aling="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KazutoBlack0) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kazuto_black) 
 
 <!--- snake ----------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
