@@ -7,7 +7,7 @@
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> <!--Imagen Chica Anime-->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-## <img aling="left" src="" width="30px"> Connect me
+## <img aling="left" src="https://media2.giphy.com/media/03CFrhn4mtBd0TNthB/giphy.gif" width="30px"> Connect me
 <p aling="left">
 Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.
 </p>
