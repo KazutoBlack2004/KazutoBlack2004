@@ -10,7 +10,7 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<img aling="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <h1> Connect me <h1>
+<img aling="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect me 
 <br>
 <p>Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.</p>
 <br>
