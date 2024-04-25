@@ -16,27 +16,32 @@ Hello! 👋 I'm Oliver, a computer engineering student passionate about the worl
 <br>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-#  🌐 Socials:
-<p align="left">
+##  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kazuto_black_) 
-</p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KazutoBlack0) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kazuto_black) 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=flat&logo=azuredevops&logoColor=white&color=%230078D7) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KazutoBlack2004&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center" style="margin-bottom:200px">
+</div>
 
-
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
+</div>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ### ✍️ Random Dev Quote
