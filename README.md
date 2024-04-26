@@ -32,11 +32,11 @@ Hello! 👋 I'm Oliver, a computer engineering student passionate about the worl
 ##  <img src="https://media.giphy.com/media/gjrOAylhpZm3dLnO5J/giphy.gif" width="45px">Stats:
  
   <a href="https://github.com/KazutoBlack2004/github-readme-stats">
-    <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KazutoBlack2004&theme=radical&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KazutoBlack2004&theme=radical&hide_border=true" />
   </a>
   
   <a href="https://github.com/KazutoBlack2004/convoychat">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
   </a>
  
 <!--- snake ----------------------------------------------------------------------------------------------------------------------------------------------------------->
