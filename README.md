@@ -12,7 +12,7 @@
 Hello! 👋 I'm Oliver, a computer engineering student passionate about the world of Front-End development. I love creating engaging and functional user experiences that make web applications stand out. I'm excited to learn and grow in this field, exploring new technologies and techniques to enhance my skills every day.
 </p>
 <p align="left">
- <a href="https://www.instagram.com/elhani__293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_kazuto_black_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
 </p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
