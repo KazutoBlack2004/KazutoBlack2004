@@ -13,11 +13,11 @@ Hello! 👋 I'm Oliver, a computer engineering student passionate about the worl
 </p>
 <p align="left">
  <a href="https://www.instagram.com/_kazuto_black_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
-</p>https://media.giphy.com/media//fikiml0dKfRQ2ZS08E/giphy.gif
+</p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## <img aling="left" src="https://media.giphy.com/media//fikiml0dKfRQ2ZS08E/giphy.gif" width="30px"> You can help me by Donating
+## <img aling="left" src="https://media.giphy.com/media/fikiml0dKfRQ2ZS08E/giphy.gif" width="40px"> You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KazutoBlack0) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kazuto_black) 
 <br>
 
@@ -31,17 +31,6 @@ Hello! 👋 I'm Oliver, a computer engineering student passionate about the worl
 ![](https://github-readme-stats.vercel.app/api?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KazutoBlack2004&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoBlack2004&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KazutoBlack0) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kazuto_black) 
 
 <!--- snake ----------------------------------------------------------------------------------------------------------------------------------------------------------->
 <div align="center">
